@@ -38,7 +38,8 @@ Employees with Monthly Income Less than 5k left the organisation most (163)<br>
 - Attrition by **Job Role**<br>
 Highest = Laboratory Technicians = 62 (59 with Less than 5k income)<br>
 Second highest = Sales Executives = 57 (10 with Less than 5k income)<br>
-Third highest = Research Scientists = 47 (47 with Less than 5k income)<br>
+Third highest = Research Scientists = 47 (All had Less than 5k income)<br>
+Fourth highest = Sales Representatives = 33 (All had Less than 5k income)<br>
 - Attrition by **Age group**<br>
 Age group 18-30 with highest number of attrition (100)<br>
 Age group 31-40 has second highest attrition (85)<br>
