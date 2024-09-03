@@ -56,6 +56,6 @@ Employees who travel rarely, left the most (156)
 - Attrition by **Department**<br>
 Employees belonging to Research & Development (R&D) department has the highest attrition of 133.<br>
 
-## Recommendations
+## Conclusion
 
 There is high attrition rate among the four job roles i.e. Laboratory Technicians, Sales Executives, Research Scientists, and Sales Representatives (199). Out of 199, 149 had monthly income Less than 5k and 39 had monthly income between 5k-10k. So, if organisation wants to retain the employees in future, it has to increase the monthly income of employees specially belonging to above four job roles.  
