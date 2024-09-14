@@ -34,7 +34,9 @@ The dataset used in this project is taken from the Kaggle website.<br>Link-
 
 <img width="920" alt="Employee Attrition Analysis Dashboard" src="https://github.com/user-attachments/assets/b0148537-3467-4419-b572-cbcc8accf6d4"><br><br>
 
-![Employee Attrition GIF](https://github.com/user-attachments/assets/ad831f06-a949-40a7-86ef-d84c71cf4769)
+
+https://github.com/user-attachments/assets/6fa72fe6-e26e-456b-a496-16ba895d297c
+
 
 ## Insights
 
